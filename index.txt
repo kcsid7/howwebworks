@@ -1,0 +1,32 @@
+What is HTTP?
+    HyperText Trasfer Protocol: A way for to transfer data from client to server
+
+What is URL?
+    Uniform Resource Locator: The address of a resource on the Web
+
+What is DNS?
+    Domain Name System: Converts between URLs and IP addresses
+
+What is a query string?
+    A string passed in a request that contains additional information about the request in a key value pair
+
+List two HTTP Verbs and their use cases:
+    GET: Gets data from the server
+    DELETE: Deletes data from the server
+
+What is an HTTP request?
+    A request is made from the client to the server that asks to get/manipulate data from the server
+
+What is an HTTP response? 
+    A response is made from the server to the client, after the request where the server provides feedback to the client
+
+What is an HTTP header? Give a couple examples of request and response headers you have seen.'
+    A header provides additional information about the request / response. For example: User Info, Cookies
+
+What are the processes that happen when you type “http://somesite.com/some/page.html” into a browser?
+    DNS resolves the URL into an IP address
+    Browser makes a request to that IP 
+    Server sends a response (if any)
+    Browser takes that response data, parses it and creates the DOM elements
+    
+
